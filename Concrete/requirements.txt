@@ -1,0 +1,14 @@
+ultralytics
+torch
+torchvision
+opencv-python
+numpy
+Pillow
+matplotlib
+pandas
+transformers
+sentence-transformers
+faiss-cpu
+accelerate
+tqdm
+scikit-image
